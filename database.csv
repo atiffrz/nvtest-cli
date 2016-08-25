@@ -1,0 +1,3 @@
+Machine_Name,Owner_Name,Machine_IP,Mac_Address,Number_of_GPU,GPU_connected,Status,Driver,Number_of_displays,Display_Connected,OS_Name,OS_Version,OS_Platform,System_Manufacturer,System_Model_Name,Email_address
+PUnknown,PratikS,10.24.142.122,90:B1:1C:99:C2:A8,1," Quadro K4000,",,370.18,2,"NEC LCD1970NXp, Lenovo Group Limited LEN LT2452pwC,",openSUSE Leap 42.1 (x86_64),42.1,x86_64,Dell Inc.,ecision T7600,psawale@nvidia.com
+Punknown,PratikS,10.24.142.118,90:B1:1C:99:C2:A8,1," Quadro M5000,",,370.18,2,"NEC LCD1970NXp, Lenovo Group Limited LEN LT2452pwC,",openSUSE Leap 42.1 (x86_64),42.1,x86_64,Dell Inc.,ecision T7600,psawale@nvidia.com
