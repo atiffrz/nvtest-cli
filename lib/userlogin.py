@@ -23,14 +23,12 @@ class login:
 
         for person in user:
             if user_id == person[0] and passwd == person[1]:
-                print "User Logged in!!!"
-                break;
+                return 1
             else:
-                print "User Invalid"
-                break;
+                return 0
 
 
 
 
-yes = login()
-yes.input_login()
+
+

@@ -61,10 +61,10 @@ class Execute:
         # subprocess.call([execute_command],shell=True)
 
 
-execute_obj = Execute()
-execute_obj.collect_ip_and_connect_to_system("10.24.141.133")
-execute_obj.scriptpath_selector(1)
-execute_obj.executor("1120263", "afaraz@nvidia.com")
+# execute_obj = Execute()
+# execute_obj.collect_ip_and_connect_to_system("10.24.141.133")
+# execute_obj.scriptpath_selector(1)
+# execute_obj.executor("1120263", "afaraz@nvidia.com")
 
 
 
